@@ -1,0 +1,69 @@
+customer_id,name,email,country,signup_date
+C0001,Anaya Mehta,anaya.mehta@example.com,IN,30-Sep-2025
+C0002,Søren Patel,søren.patel@mail.com,Spain,2024/05/14
+C0003,Neha Sharma,josé.nair@corp.org,USA,2024/01/20
+C0004,Manish Singh,manish.singh@mail.com,France,24-Apr-2025
+C0005,Rohan Nair,rohan.nair@mail.com,US,01-Oct-2024
+C0006,Kavya Sharma,kavya.sharma@example.com,France,16-Dec-2024
+C0007,Søren Jain,søren.jain@corp.org,UK,2024/02/29
+C0008,François Khan,françois.khan@corp.org,United Kingdom,2024-10-04
+C0009,Karan Gupta,karan.gupta@corp.org,U.S.,27-Apr-2025
+C0010,Maya Jain,maya.jain@example.com,  spain,2024/09/23
+C0011,José Nair,josé.nair@corp.org,France,09-15-2025
+C0012,Søren Iyer,søren.iyer@mail.com,INDIA,08-15-2025
+C0013,  Riya Sharma  ,riya.sharma@mail.com,United Kingdom,2025/06/12
+C0014,Aisha Singh,aisha.singh@mail.com,france,09-Nov-2025
+C0015,Ishaan Khan,ishaan.khan@corp.org,United Kingdom,06-24-2025
+C0016,Tanish Gupta,tanish.gupta@example.com,  spain,05-13-2024
+C0017,  Zoë Mehta  ,zoë.mehta@mail.com,USA,2025-10-05
+C0018,Aarav Jain,aarav.jain@example.com,IN,2025-05-04
+C0019,Ishaan Roy,ishaan.roy@example.com,USA,03-14-2024
+C0020,Zoë Nair,zoë.nair@corp.org,US,11-Aug-2024
+C0021,  Renée Khan  ,renée.khan@corp.org,Germany,04-May-2024
+C0022,Dev Patel,dev.patel@example.com,U.S.,2025/12/26
+C0023,Rohan Sharma,rohan.sharma@example.com,USA,29-Jun-2025
+C0024,José Mehta,josé.mehta@mail.com,FR,20-Nov-2025
+C0025,Aditya Gupta,aditya.gupta@mail.com,ES,30/07/2024
+C0026,Rohan Roy,rohan.roy@example.com,  spain,21-Apr-2025
+C0027,Meera Jain,meera.jain@corp.org,USA,29/03/2025
+C0028,François Singh,françois.singh@example.com,India,2025/07/18
+C0029,Riya Patel,riya.patel@example.com,DE,29/03/2024
+C0030,Arjun Jain,arjun.jain@mail.com,India,01-21-2025
+C0031,François Jain,françois.jain@mail.com,U.S.,28/04/2025
+C0032,Karan Sharma,karan.sharma@mail.com,U.K.,11/09/2025
+C0033,Diya Mehta,diya.mehta@corp.org,INDIA,2025-05-07
+C0034,Riya Roy,riya.roy@corp.org, Bharat ,02-Dec-2024
+C0035,Vihaan Verma,,france,11/12/2024
+C0036,  Kabir Iyer  ,kabir.iyer@corp.org,  spain,2024-09-11
+C0037,Renée Mehta,renée.mehta@mail.com,India,04-27-2024
+C0038,  Arjun Verma  ,arjun.verma@mail.com,france,2024-07-27
+C0039,Meera Verma,meera.verma@corp.org,Spain,04-19-2024
+C0040,Manish Jain,manish.jain@mail.com,germany,18-Jun-2024
+C0041,Sneha Das,sneha.das@corp.org,DE,02-Oct-2025
+C0042,Arjun Patel,arjun.patel@corp.org,france,2025-01-29
+C0043,Siddharth Nair,siddharth.nair@example.com,Germany,2024/03/09
+C0044,Manish Das,manish.das@corp.org,usa,2024-11-19
+C0045,Aditya Das,,United Kingdom,07-22-2024
+C0046,Kavya Sharma,kavya.sharma@mail.com,IN,2025/05/12
+C0047,Karan Gupta,,U.K.,14-Sep-2025
+C0048,Ira Khan,invalid_email,U.K.,2024/01/10
+C0049,Dev Khan,dev.khan@example.com,India,15-Dec-2024
+C0050,Ishaan Iyer,ishaan.iyer@mail.com,  spain,01-Dec-2024
+C0051,Manish Sharma,,IN,2026/01/13
+C0052,Meera Singh,meera.singh@mail.com,DE,30/09/2024
+C0053,Søren Khan,søren.khan@corp.org,FR,03-May-2024
+C0054,José Iyer,josé.iyer@example.com,UK,2024-05-26
+C0055,Vivek Roy,vivek.roy@example.com,Germany,12-24-2024
+C0056,Łukasz Nair,łukasz.nair@example.com,U.K.,22/03/2025
+C0057,  Kavya Das  ,kavya.das@corp.org,  spain,01/09/2024
+C0058,  Renée Verma  ,renée.verma@mail.com,Germany,2024-11-22
+C0059,Rahul Gupta,rahul.gupta@example.com,France,12/05/2025
+C0060,Aarav Das,aarav.das@corp.org,India,12-Aug-2024
+C0032,Karan Sharma,karan.sharma@mail.com,U.K.,11/09/2025
+C0021,  Renée Khan  ,renée.khan@corp.org,Germany,04-May-2024
+C0060,Aarav Das,aarav.das@corp.org,India,12-Aug-2024
+C0018,Aarav Jain,aarav.jain@example.com,IN,2025-05-04
+C0011,José Nair,josé.nair@corp.org,France,09-15-2025
+C0035,Vihaan Verma,conflict@mail.com,USA,11/12/2024
+C0015,Ishaan Khan,ishaan.khan@corp.org,USA,06-24-2025
+C0007,Søren Jain,søren.jain@corp.org,India,2024/02/29

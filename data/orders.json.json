@@ -1,0 +1,2677 @@
+[
+  {
+    "order_id": "O00001",
+    "customer_id": "C0057",
+    "order_date": "2025-99-99",
+    "amount": 382.17,
+    "currency": "USD",
+    "status": "canceled",
+    "items": [
+      {
+        "sku": "SKU410",
+        "qty": 1,
+        "unit_price": 94.82
+      }
+    ]
+  },
+  {
+    "order_id": "O00002",
+    "customer_id": "C0035",
+    "order_date": "2025-99-99",
+    "amount": 302.15,
+    "currency": "USD",
+    "status": "canceled"
+  },
+  {
+    "order_id": "O00003",
+    "customer_id": "C0047",
+    "order_date": "2025-09-28",
+    "amount": 157.72,
+    "currency": "USD",
+    "status": "canceled"
+  },
+  {
+    "order_id": "O00004",
+    "customer_id": "C0036",
+    "order_date": "2025/04/02",
+    "amount": 280.78,
+    "currency": "GBP",
+    "status": "Return"
+  },
+  {
+    "order_id": "O00005",
+    "customer_id": "C0006",
+    "order_date": "12/07/2025",
+    "amount": 325.21,
+    "currency": "EUR",
+    "status": "COMPLETE"
+  },
+  {
+    "order_id": "O00006",
+    "customer_id": "C0022",
+    "order_date": "26-04-2025",
+    "amount": 144.64,
+    "currency": "GBP",
+    "status": "Pending"
+  },
+  {
+    "order_id": "O00007",
+    "customer_id": "C0030",
+    "order_date": "2025/06/23",
+    "amount": 120.9,
+    "currency": "INR",
+    "status": "Pending"
+  },
+  {
+    "order_id": "O00008",
+    "customer_id": "C0014",
+    "order_date": "2025/09/20",
+    "amount": 291.27,
+    "currency": "EUR",
+    "status": "Pending"
+  },
+  {
+    "order_id": "O00009",
+    "customer_id": "C0021",
+    "order_date": "05-09-2025",
+    "amount": 306.37,
+    "currency": "EUR",
+    "status": "Refunded"
+  },
+  {
+    "order_id": "O00010",
+    "customer_id": "C0010",
+    "order_date": "2025-05-20",
+    "amount": 122.1,
+    "currency": "GBP",
+    "status": "Pending",
+    "items": [
+      {
+        "sku": "SKU658",
+        "qty": 2,
+        "unit_price": 165.28
+      },
+      {
+        "sku": "SKU544",
+        "qty": 3,
+        "unit_price": 83.95
+      },
+      {
+        "sku": "SKU707",
+        "qty": 1,
+        "unit_price": 89.81
+      }
+    ]
+  },
+  {
+    "order_id": "O00011",
+    "customer_id": "C0044",
+    "order_date": "26/01/2026",
+    "amount": 217.4,
+    "currency": "GBP",
+    "status": "unknown"
+  },
+  {
+    "order_id": "O00012",
+    "customer_id": "C0043",
+    "order_date": "2025/08/12",
+    "amount": 185.15,
+    "currency": "USD",
+    "status": "Pending"
+  },
+  {
+    "order_id": "O00013",
+    "customer_id": "C9005",
+    "order_date": "05-01-2026",
+    "amount": 374.57,
+    "currency": "GBP",
+    "status": "PENDING"
+  },
+  {
+    "order_id": "O00014",
+    "customer_id": "C0001",
+    "order_date": "2025-09-14",
+    "amount": 153.33,
+    "currency": "INR",
+    "status": "canceled",
+    "items": [
+      {
+        "sku": "SKU330",
+        "qty": 3,
+        "unit_price": 19.9
+      },
+      {
+        "sku": "SKU762",
+        "qty": 2,
+        "unit_price": 5.0
+      }
+    ]
+  },
+  {
+    "order_id": "O00015",
+    "customer_id": "C0030",
+    "order_date": "10-07-2025",
+    "amount": 375.19,
+    "currency": "EUR",
+    "status": "Refunded"
+  },
+  {
+    "order_id": "O00016",
+    "customer_id": "C0010",
+    "order_date": "12-10-2025",
+    "amount": 250.85,
+    "currency": "EUR",
+    "status": "Return"
+  },
+  {
+    "order_id": "O00017",
+    "customer_id": "C0006",
+    "order_date": "12/08/2025",
+    "amount": 73.97,
+    "currency": "EUR",
+    "status": "completed",
+    "items": [
+      {
+        "sku": "SKU368",
+        "qty": 3,
+        "unit_price": 5.0
+      },
+      {
+        "sku": "SKU343",
+        "qty": 1,
+        "unit_price": 133.91
+      },
+      {
+        "sku": "SKU980",
+        "qty": 1,
+        "unit_price": 94.2
+      },
+      {
+        "sku": "SKU153",
+        "qty": 1,
+        "unit_price": 49.65
+      }
+    ]
+  },
+  {
+    "order_id": "O00018",
+    "customer_id": "C0003",
+    "order_date": "2025/09/03",
+    "amount": 374.43,
+    "currency": "EUR",
+    "status": "PENDING"
+  },
+  {
+    "order_id": "O00019",
+    "customer_id": "C0023",
+    "order_date": "25-07-2025",
+    "amount": 403.29,
+    "currency": "INR",
+    "status": "Cancelled",
+    "items": [
+      {
+        "sku": "SKU541",
+        "qty": 3,
+        "unit_price": 57.01
+      }
+    ]
+  },
+  {
+    "order_id": "O00020",
+    "customer_id": "C0002",
+    "order_date": "07/07/2025",
+    "amount": 264.78,
+    "currency": "GBP",
+    "status": "Shipped"
+  },
+  {
+    "order_id": "O00021",
+    "customer_id": "C0047",
+    "order_date": "19/01/2026",
+    "amount": 71.94,
+    "currency": "GBP",
+    "status": "completed"
+  },
+  {
+    "order_id": "O00022",
+    "customer_id": "C0033",
+    "order_date": "18-06-2025",
+    "amount": 196.48,
+    "currency": "INR",
+    "status": "PENDING"
+  },
+  {
+    "order_id": "O00023",
+    "customer_id": "C0012",
+    "order_date": "2025-12-09",
+    "amount": 117.56,
+    "currency": "EUR",
+    "status": "Cancelled"
+  },
+  {
+    "order_id": "O00024",
+    "customer_id": "C0034",
+    "order_date": "23/04/2025",
+    "amount": 290.56,
+    "currency": "EUR",
+    "status": "Completed"
+  },
+  {
+    "order_id": "O00025",
+    "customer_id": "C0033",
+    "order_date": "2025/09/22",
+    "amount": 1.0,
+    "currency": "INR",
+    "status": "PENDING",
+    "items": [
+      {
+        "sku": "SKU526",
+        "qty": 2,
+        "unit_price": 10.15
+      },
+      {
+        "sku": "SKU220",
+        "qty": 1,
+        "unit_price": 126.16
+      },
+      {
+        "sku": "SKU400",
+        "qty": 2,
+        "unit_price": 63.77
+      },
+      {
+        "sku": "SKU631",
+        "qty": 1,
+        "unit_price": 18.36
+      }
+    ]
+  },
+  {
+    "order_id": "O00026",
+    "customer_id": "C0055",
+    "order_date": "31-12-2025",
+    "amount": 216.6,
+    "currency": "EUR",
+    "status": "COMPLETE"
+  },
+  {
+    "order_id": "O00027",
+    "customer_id": "C0010",
+    "order_date": "2026/01/28",
+    "amount": 177.19,
+    "currency": "USD",
+    "status": "unknown"
+  },
+  {
+    "order_id": "O00028",
+    "customer_id": "C0020",
+    "order_date": "2025/07/12",
+    "amount": 387.57,
+    "currency": "INR",
+    "status": "COMPLETE"
+  },
+  {
+    "order_id": "O00029",
+    "customer_id": "C0004",
+    "order_date": "2025/09/28",
+    "amount": 215.63,
+    "currency": "GBP",
+    "status": "Refunded"
+  },
+  {
+    "order_id": "O00030",
+    "customer_id": "C0033",
+    "order_date": "31-10-2025",
+    "amount": 282.07,
+    "currency": "GBP",
+    "status": "COMPLETE"
+  },
+  {
+    "order_id": "O00031",
+    "customer_id": "C0033",
+    "order_date": "2025-07-16",
+    "amount": -28.18,
+    "currency": "INR",
+    "status": "Return"
+  },
+  {
+    "order_id": "O00032",
+    "customer_id": "C0053",
+    "order_date": "11-04-2025",
+    "amount": 0.0,
+    "currency": "EUR",
+    "status": "completed"
+  },
+  {
+    "order_id": "O00033",
+    "customer_id": "C0054",
+    "order_date": "2026/01/26",
+    "amount": 146.6,
+    "currency": "GBP",
+    "status": "Shipped"
+  },
+  {
+    "order_id": "O00034",
+    "customer_id": "C0056",
+    "order_date": "13/09/2025",
+    "amount": 216.74,
+    "currency": "INR",
+    "status": "Shipped"
+  },
+  {
+    "order_id": "O00035",
+    "customer_id": "C0029",
+    "order_date": "24/11/2025",
+    "amount": 87.66,
+    "currency": "EUR",
+    "status": "completed"
+  },
+  {
+    "order_id": "O00036",
+    "customer_id": "C0044",
+    "order_date": "2025/07/23",
+    "amount": 311.78,
+    "currency": "GBP",
+    "status": "Shipped"
+  },
+  {
+    "order_id": "O00037",
+    "customer_id": "C0028",
+    "order_date": "2025-04-25",
+    "amount": 275.29,
+    "currency": "INR",
+    "status": "Cancelled"
+  },
+  {
+    "order_id": "O00038",
+    "customer_id": "C0031",
+    "order_date": "08/05/2025",
+    "amount": 15000.0,
+    "currency": "EUR",
+    "status": "completed"
+  },
+  {
+    "order_id": "O00039",
+    "customer_id": "C0023",
+    "order_date": "21/06/2025",
+    "amount": 138.22,
+    "currency": "USD",
+    "status": "unknown"
+  },
+  {
+    "order_id": "O00040",
+    "customer_id": "C0044",
+    "order_date": "2025-08-30",
+    "amount": 344.68,
+    "currency": "USD",
+    "status": "Cancelled"
+  },
+  {
+    "order_id": "O00041",
+    "customer_id": "C0003",
+    "order_date": "2026-01-22",
+    "amount": 386.85,
+    "currency": "USD",
+    "status": "Pending"
+  },
+  {
+    "order_id": "O00042",
+    "customer_id": "C0030",
+    "order_date": "10/11/2025",
+    "amount": 245.47,
+    "currency": "INR",
+    "status": "COMPLETE",
+    "items": [
+      {
+        "sku": "SKU735",
+        "qty": 1,
+        "unit_price": 45.13
+      }
+    ]
+  },
+  {
+    "order_id": "O00043",
+    "customer_id": "C0011",
+    "order_date": "16-11-2025",
+    "amount": -17.85,
+    "currency": "USD",
+    "status": "Return"
+  },
+  {
+    "order_id": "O00044",
+    "customer_id": "C0055",
+    "order_date": "09-11-2025",
+    "amount": 44.21,
+    "currency": "GBP",
+    "status": "Shipped"
+  },
+  {
+    "order_id": "O00045",
+    "customer_id": "C0045",
+    "order_date": "2025/11/07",
+    "amount": 165.72,
+    "currency": "INR",
+    "status": "Pending",
+    "items": [
+      {
+        "sku": "SKU434",
+        "qty": 1,
+        "unit_price": 84.64
+      }
+    ]
+  },
+  {
+    "order_id": "O00046",
+    "customer_id": "C0012",
+    "order_date": "03/02/2026",
+    "amount": 101.01,
+    "currency": "GBP",
+    "status": "Return"
+  },
+  {
+    "order_id": "O00047",
+    "customer_id": "C0032",
+    "order_date": "2025/04/15",
+    "amount": 0.0,
+    "currency": "GBP",
+    "status": "COMPLETE"
+  },
+  {
+    "order_id": "O00048",
+    "customer_id": "C0021",
+    "order_date": "07-05-2025",
+    "amount": 49.97,
+    "currency": "USD",
+    "status": "canceled"
+  },
+  {
+    "order_id": "O00049",
+    "customer_id": "C0034",
+    "order_date": "2025-12-01",
+    "amount": 246.05,
+    "currency": "USD",
+    "status": "Refunded",
+    "items": [
+      {
+        "sku": "SKU386",
+        "qty": 2,
+        "unit_price": 109.34
+      },
+      {
+        "sku": "SKU314",
+        "qty": 1,
+        "unit_price": 74.3
+      }
+    ]
+  },
+  {
+    "order_id": "O00050",
+    "customer_id": "C0008",
+    "order_date": "2025-05-17",
+    "amount": 242.97,
+    "currency": "USD",
+    "status": "Shipped",
+    "items": [
+      {
+        "sku": "SKU480",
+        "qty": 1,
+        "unit_price": 46.63
+      }
+    ]
+  },
+  {
+    "order_id": "O00051",
+    "customer_id": "C0052",
+    "order_date": "2025/10/31",
+    "amount": 117.73,
+    "currency": "USD",
+    "status": "Cancelled",
+    "items": [
+      {
+        "sku": "SKU493",
+        "qty": 1,
+        "unit_price": 5.07
+      },
+      {
+        "sku": "SKU802",
+        "qty": 2,
+        "unit_price": 5.0
+      },
+      {
+        "sku": "SKU138",
+        "qty": 1,
+        "unit_price": 80.99
+      },
+      {
+        "sku": "SKU127",
+        "qty": 2,
+        "unit_price": 157.13
+      }
+    ]
+  },
+  {
+    "order_id": "O00052",
+    "customer_id": "C0014",
+    "order_date": "2025-11-08",
+    "amount": 106.96,
+    "currency": "USD",
+    "status": "canceled"
+  },
+  {
+    "order_id": "O00053",
+    "customer_id": "C0045",
+    "order_date": "28/08/2025",
+    "amount": 539.62,
+    "currency": "USD",
+    "status": "Shipped"
+  },
+  {
+    "order_id": "O00054",
+    "customer_id": "C0004",
+    "order_date": "23-08-2025",
+    "amount": 314.65,
+    "currency": "INR",
+    "status": "Shipped",
+    "items": [
+      {
+        "sku": "SKU941",
+        "qty": 1,
+        "unit_price": 24.21
+      },
+      {
+        "sku": "SKU867",
+        "qty": 3,
+        "unit_price": 67.41
+      },
+      {
+        "sku": "SKU829",
+        "qty": 1,
+        "unit_price": 31.35
+      }
+    ]
+  },
+  {
+    "order_id": "O00055",
+    "customer_id": "C0003",
+    "order_date": "31/08/2025",
+    "amount": null,
+    "currency": "EUR",
+    "status": "Refunded"
+  },
+  {
+    "order_id": "O00056",
+    "customer_id": "C0016",
+    "order_date": "16/11/2025",
+    "amount": 6.5,
+    "currency": "EUR",
+    "status": "Refunded"
+  },
+  {
+    "order_id": "O00057",
+    "customer_id": "C0003",
+    "order_date": "2025-05-13",
+    "amount": 168.79,
+    "currency": "GBP",
+    "status": "unknown"
+  },
+  {
+    "order_id": "O00058",
+    "customer_id": "C0011",
+    "order_date": "2026/02/08",
+    "amount": 225.2,
+    "currency": "INR",
+    "status": "unknown"
+  },
+  {
+    "order_id": "O00059",
+    "customer_id": "C0002",
+    "order_date": "31-08-2025",
+    "amount": 356.38,
+    "currency": "EUR",
+    "status": "PENDING"
+  },
+  {
+    "order_id": "O00060",
+    "customer_id": "C0052",
+    "order_date": "23-11-2025",
+    "amount": 295.93,
+    "currency": "EUR",
+    "status": "Completed"
+  },
+  {
+    "order_id": "O00061",
+    "customer_id": "C0045",
+    "order_date": "08/08/2025",
+    "amount": 132.7,
+    "currency": "INR",
+    "status": "Refunded"
+  },
+  {
+    "order_id": "O00062",
+    "customer_id": "C0044",
+    "order_date": "2025-07-12",
+    "amount": 310.37,
+    "currency": "GBP",
+    "status": "Shipped"
+  },
+  {
+    "order_id": "O00063",
+    "customer_id": "C0037",
+    "order_date": "2025/04/03",
+    "amount": 310.65,
+    "currency": "USD",
+    "status": "canceled"
+  },
+  {
+    "order_id": "O00064",
+    "customer_id": "C0030",
+    "order_date": "2025-08-26",
+    "amount": 195.5,
+    "currency": "EUR",
+    "status": "Return"
+  },
+  {
+    "order_id": "O00065",
+    "customer_id": "C0031",
+    "order_date": "2025-04-09",
+    "amount": 0.0,
+    "currency": "INR",
+    "status": "COMPLETE"
+  },
+  {
+    "order_id": "O00066",
+    "customer_id": "C0029",
+    "order_date": "07-09-2025",
+    "amount": 246.92,
+    "currency": "USD",
+    "status": "PENDING"
+  },
+  {
+    "order_id": "O00067",
+    "customer_id": "C0054",
+    "order_date": "30-12-2025",
+    "amount": -38.94,
+    "currency": "GBP",
+    "status": "Cancelled"
+  },
+  {
+    "order_id": "O00068",
+    "customer_id": "C0054",
+    "order_date": "02-07-2025",
+    "amount": 233.79,
+    "currency": "GBP",
+    "status": "PENDING"
+  },
+  {
+    "order_id": "O00069",
+    "customer_id": "C0011",
+    "order_date": "2025-04-08",
+    "amount": 0.0,
+    "currency": "EUR",
+    "status": "Cancelled"
+  },
+  {
+    "order_id": "O00070",
+    "customer_id": "C0026",
+    "order_date": "2025/06/06",
+    "amount": 251.88,
+    "currency": "EUR",
+    "status": "completed"
+  },
+  {
+    "order_id": "O00071",
+    "customer_id": "C0022",
+    "order_date": "28/10/2025",
+    "amount": 41.97,
+    "currency": "GBP",
+    "status": "Cancelled"
+  },
+  {
+    "order_id": "O00072",
+    "customer_id": "C0016",
+    "order_date": "2025/12/03",
+    "amount": 0.0,
+    "currency": "EUR",
+    "status": "Cancelled",
+    "items": [
+      {
+        "sku": "SKU396",
+        "qty": 3,
+        "unit_price": 57.66
+      },
+      {
+        "sku": "SKU315",
+        "qty": 1,
+        "unit_price": 35.62
+      },
+      {
+        "sku": "SKU726",
+        "qty": 1,
+        "unit_price": 69.4
+      },
+      {
+        "sku": "SKU425",
+        "qty": 1,
+        "unit_price": 63.33
+      }
+    ]
+  },
+  {
+    "order_id": "O00073",
+    "customer_id": "C0038",
+    "order_date": "2025/06/26",
+    "amount": 250.73,
+    "currency": "GBP",
+    "status": "unknown",
+    "items": [
+      {
+        "sku": "SKU229",
+        "qty": 2,
+        "unit_price": 36.99
+      },
+      {
+        "sku": "SKU207",
+        "qty": 2,
+        "unit_price": 77.27
+      }
+    ]
+  },
+  {
+    "order_id": "O00074",
+    "customer_id": "C0003",
+    "order_date": "21-10-2025",
+    "amount": 162.99,
+    "currency": "EUR",
+    "status": "unknown"
+  },
+  {
+    "order_id": "O00075",
+    "customer_id": "C0033",
+    "order_date": "13-01-2026",
+    "amount": 323.68,
+    "currency": "INR",
+    "status": "canceled"
+  },
+  {
+    "order_id": "O00076",
+    "customer_id": "C0001",
+    "order_date": "13/08/2025",
+    "amount": 91.0,
+    "currency": "INR",
+    "status": "Shipped"
+  },
+  {
+    "order_id": "O00077",
+    "customer_id": "C0056",
+    "order_date": "2025-05-04",
+    "amount": 138.07,
+    "currency": "GBP",
+    "status": "Return"
+  },
+  {
+    "order_id": "O00078",
+    "customer_id": "C0011",
+    "order_date": "07/02/2026",
+    "amount": 227.46,
+    "currency": "USD",
+    "status": "completed",
+    "items": [
+      {
+        "sku": "SKU837",
+        "qty": 1,
+        "unit_price": 31.86
+      },
+      {
+        "sku": "SKU681",
+        "qty": 3,
+        "unit_price": 5.0
+      },
+      {
+        "sku": "SKU540",
+        "qty": 2,
+        "unit_price": 5.0
+      }
+    ]
+  },
+  {
+    "order_id": "O00079",
+    "customer_id": "C0030",
+    "order_date": "04-07-2025",
+    "amount": 152.8,
+    "currency": "USD",
+    "status": "Pending"
+  },
+  {
+    "order_id": "O00080",
+    "customer_id": "C0001",
+    "order_date": "2025-11-16",
+    "amount": 264.62,
+    "currency": "EUR",
+    "status": "PENDING"
+  },
+  {
+    "order_id": "O00081",
+    "customer_id": "C0007",
+    "order_date": "2025/07/27",
+    "amount": 197.49,
+    "currency": "GBP",
+    "status": "canceled"
+  },
+  {
+    "order_id": "O00082",
+    "customer_id": "C0023",
+    "order_date": "2025/04/03",
+    "amount": 133.37,
+    "currency": "USD",
+    "status": "Refunded"
+  },
+  {
+    "order_id": "O00083",
+    "customer_id": "C0009",
+    "order_date": "2026-01-28",
+    "amount": 84.22,
+    "currency": "USD",
+    "status": "PENDING"
+  },
+  {
+    "order_id": "O00084",
+    "customer_id": "C0023",
+    "order_date": "2025-09-22",
+    "amount": 194.31,
+    "currency": "GBP",
+    "status": "unknown",
+    "items": [
+      {
+        "sku": "SKU544",
+        "qty": 1,
+        "unit_price": 108.7
+      }
+    ]
+  },
+  {
+    "order_id": "O00085",
+    "customer_id": "C0034",
+    "order_date": "2025/12/24",
+    "amount": 469.51,
+    "currency": "EUR",
+    "status": "Completed"
+  },
+  {
+    "order_id": "O00086",
+    "customer_id": "C0051",
+    "order_date": "08-05-2025",
+    "amount": 73.95,
+    "currency": "USD",
+    "status": "Shipped"
+  },
+  {
+    "order_id": "O00087",
+    "customer_id": "C0027",
+    "order_date": "2025-04-09",
+    "amount": 311.33,
+    "currency": "INR",
+    "status": "Pending"
+  },
+  {
+    "order_id": "O00088",
+    "customer_id": "C0020",
+    "order_date": "2025/05/22",
+    "amount": 277.15,
+    "currency": "EUR",
+    "status": "Refunded"
+  },
+  {
+    "order_id": "O00089",
+    "customer_id": "C0040",
+    "order_date": "11-06-2025",
+    "amount": 524.55,
+    "currency": "INR",
+    "status": "Shipped"
+  },
+  {
+    "order_id": "O00090",
+    "customer_id": "C0038",
+    "order_date": "17/10/2025",
+    "amount": 337.52,
+    "currency": "INR",
+    "status": "Cancelled"
+  },
+  {
+    "order_id": "O00091",
+    "customer_id": "C0016",
+    "order_date": "2025-04-17",
+    "amount": 85.31,
+    "currency": "INR",
+    "status": "canceled"
+  },
+  {
+    "order_id": "O00092",
+    "customer_id": "C0008",
+    "order_date": "24-01-2026",
+    "amount": 85.56,
+    "currency": "GBP",
+    "status": "Return"
+  },
+  {
+    "order_id": "O00093",
+    "customer_id": "C0024",
+    "order_date": "21/04/2025",
+    "amount": 210.92,
+    "currency": "INR",
+    "status": "Return"
+  },
+  {
+    "order_id": "O00094",
+    "customer_id": "C9003",
+    "order_date": "10/02/2026",
+    "amount": 60.33,
+    "currency": "GBP",
+    "status": "Completed"
+  },
+  {
+    "order_id": "O00095",
+    "customer_id": "C0039",
+    "order_date": "2025-08-18",
+    "amount": 263.2,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": "O00096",
+    "customer_id": "C0025",
+    "order_date": "08-12-2025",
+    "amount": 332.31,
+    "currency": "INR",
+    "status": "Completed"
+  },
+  {
+    "order_id": "O00097",
+    "customer_id": "C0015",
+    "order_date": "2025/12/05",
+    "amount": 187.69,
+    "currency": "GBP",
+    "status": "completed"
+  },
+  {
+    "order_id": "O00098",
+    "customer_id": "C0041",
+    "order_date": "2025-09-12",
+    "amount": 220.74,
+    "currency": "GBP",
+    "status": "Shipped",
+    "items": [
+      {
+        "sku": "SKU151",
+        "qty": 2,
+        "unit_price": 14.29
+      }
+    ]
+  },
+  {
+    "order_id": "O00099",
+    "customer_id": "C0059",
+    "order_date": "2026-01-26",
+    "amount": null,
+    "currency": "GBP",
+    "status": "Completed",
+    "items": [
+      {
+        "sku": "SKU224",
+        "qty": 2,
+        "unit_price": 5.0
+      }
+    ]
+  },
+  {
+    "order_id": "O00100",
+    "customer_id": "C0036",
+    "order_date": "2025-04-04",
+    "amount": 8.12,
+    "currency": "GBP",
+    "status": "canceled"
+  },
+  {
+    "order_id": "O00101",
+    "customer_id": "C0029",
+    "order_date": "2026/01/25",
+    "amount": 299.11,
+    "currency": "EUR",
+    "status": "Cancelled"
+  },
+  {
+    "order_id": "O00102",
+    "customer_id": "C0011",
+    "order_date": "15/07/2025",
+    "amount": -9.37,
+    "currency": "GBP",
+    "status": "PENDING"
+  },
+  {
+    "order_id": "O00103",
+    "customer_id": "C0051",
+    "order_date": "2025-08-20",
+    "amount": 67.73,
+    "currency": "EUR",
+    "status": "Pending",
+    "items": [
+      {
+        "sku": "SKU898",
+        "qty": 1,
+        "unit_price": 56.12
+      }
+    ]
+  },
+  {
+    "order_id": "O00104",
+    "customer_id": "C0030",
+    "order_date": "2025/12/13",
+    "amount": 402.81,
+    "currency": "INR",
+    "status": "Completed"
+  },
+  {
+    "order_id": "O00105",
+    "customer_id": "C0025",
+    "order_date": "2025-11-24",
+    "amount": 179.29,
+    "currency": "USD",
+    "status": "canceled"
+  },
+  {
+    "order_id": "O00106",
+    "customer_id": "C0036",
+    "order_date": "2025/11/11",
+    "amount": 203.46,
+    "currency": "INR",
+    "status": "Refunded"
+  },
+  {
+    "order_id": "O00107",
+    "customer_id": "C0005",
+    "order_date": "2025/12/04",
+    "amount": 160.42,
+    "currency": "EUR",
+    "status": "COMPLETE",
+    "items": [
+      {
+        "sku": "SKU233",
+        "qty": 3,
+        "unit_price": 88.63
+      },
+      {
+        "sku": "SKU155",
+        "qty": 3,
+        "unit_price": 94.94
+      }
+    ]
+  },
+  {
+    "order_id": "O00108",
+    "customer_id": "C0044",
+    "order_date": "2025-05-06",
+    "amount": 224.29,
+    "currency": "GBP",
+    "status": "canceled",
+    "items": [
+      {
+        "sku": "SKU938",
+        "qty": 2,
+        "unit_price": 5.59
+      }
+    ]
+  },
+  {
+    "order_id": "O00109",
+    "customer_id": "C0024",
+    "order_date": "24/11/2025",
+    "amount": 337.47,
+    "currency": "EUR",
+    "status": "Return"
+  },
+  {
+    "order_id": "O00110",
+    "customer_id": "C0052",
+    "order_date": "2026-01-04",
+    "amount": 226.89,
+    "currency": "EUR",
+    "status": "Cancelled"
+  },
+  {
+    "order_id": "O00111",
+    "customer_id": "C0059",
+    "order_date": "03-04-2025",
+    "amount": 274.12,
+    "currency": "USD",
+    "status": "Shipped"
+  },
+  {
+    "order_id": "O00112",
+    "customer_id": "C0044",
+    "order_date": "14/04/2025",
+    "amount": 253.99,
+    "currency": "INR",
+    "status": "COMPLETE"
+  },
+  {
+    "order_id": "O00113",
+    "customer_id": "C0054",
+    "order_date": "2025-09-29",
+    "amount": 109.17,
+    "currency": "GBP",
+    "status": "completed"
+  },
+  {
+    "order_id": "O00114",
+    "customer_id": "C0060",
+    "order_date": "2025-04-24",
+    "amount": 138.61,
+    "currency": "USD",
+    "status": "unknown"
+  },
+  {
+    "order_id": "O00115",
+    "customer_id": "C0032",
+    "order_date": "17/04/2025",
+    "amount": 327.46,
+    "currency": "EUR",
+    "status": "Completed"
+  },
+  {
+    "order_id": "O00116",
+    "customer_id": "C0046",
+    "order_date": "03/02/2026",
+    "amount": 252.25,
+    "currency": "GBP",
+    "status": "Completed"
+  },
+  {
+    "order_id": "O00117",
+    "customer_id": "C0024",
+    "order_date": "2025/09/11",
+    "amount": 575.31,
+    "currency": "INR",
+    "status": "Pending"
+  },
+  {
+    "order_id": "O00118",
+    "customer_id": "C0041",
+    "order_date": "2025-06-02",
+    "amount": 252.14,
+    "currency": "USD",
+    "status": "unknown"
+  },
+  {
+    "order_id": "O00119",
+    "customer_id": "C0056",
+    "order_date": "01/06/2025",
+    "amount": 225.33,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "O00120",
+    "customer_id": "C0015",
+    "order_date": "2025/05/11",
+    "amount": 350.11,
+    "currency": "USD",
+    "status": "completed",
+    "items": [
+      {
+        "sku": "SKU843",
+        "qty": 3,
+        "unit_price": 57.25
+      }
+    ]
+  },
+  {
+    "order_id": "O00121",
+    "customer_id": "C0031",
+    "order_date": "01-02-2026",
+    "amount": 206.53,
+    "currency": "EUR",
+    "status": "Shipped"
+  },
+  {
+    "order_id": "O00122",
+    "customer_id": "C0020",
+    "order_date": "13/11/2025",
+    "amount": 7.23,
+    "currency": "GBP",
+    "status": "Shipped",
+    "items": [
+      {
+        "sku": "SKU251",
+        "qty": 1,
+        "unit_price": 18.01
+      },
+      {
+        "sku": "SKU464",
+        "qty": 3,
+        "unit_price": 76.94
+      }
+    ]
+  },
+  {
+    "order_id": "O00123",
+    "customer_id": "C0024",
+    "order_date": "2025/07/09",
+    "amount": 210.37,
+    "currency": "GBP",
+    "status": "Cancelled"
+  },
+  {
+    "order_id": "O00124",
+    "customer_id": "C0016",
+    "order_date": "10-07-2025",
+    "amount": 132.04,
+    "currency": "INR",
+    "status": "COMPLETE",
+    "items": [
+      {
+        "sku": "SKU739",
+        "qty": 2,
+        "unit_price": 58.05
+      },
+      {
+        "sku": "SKU843",
+        "qty": 3,
+        "unit_price": 33.89
+      }
+    ]
+  },
+  {
+    "order_id": "O00125",
+    "customer_id": "C0047",
+    "order_date": "2025/12/27",
+    "amount": 203.05,
+    "currency": "GBP",
+    "status": "PENDING",
+    "items": [
+      {
+        "sku": "SKU909",
+        "qty": 2,
+        "unit_price": 35.99
+      },
+      {
+        "sku": "SKU232",
+        "qty": 3,
+        "unit_price": 46.91
+      },
+      {
+        "sku": "SKU766",
+        "qty": 1,
+        "unit_price": 48.79
+      },
+      {
+        "sku": "SKU575",
+        "qty": 3,
+        "unit_price": 110.42
+      }
+    ]
+  },
+  {
+    "order_id": "O00126",
+    "customer_id": "C0047",
+    "order_date": "05-10-2025",
+    "amount": 274.85,
+    "currency": "INR",
+    "status": "PENDING"
+  },
+  {
+    "order_id": "O00127",
+    "customer_id": "C0049",
+    "order_date": "22/05/2025",
+    "amount": 265.54,
+    "currency": "INR",
+    "status": "Pending",
+    "items": [
+      {
+        "sku": "SKU685",
+        "qty": 3,
+        "unit_price": 11.29
+      },
+      {
+        "sku": "SKU314",
+        "qty": 2,
+        "unit_price": 78.19
+      },
+      {
+        "sku": "SKU407",
+        "qty": 2,
+        "unit_price": 32.03
+      },
+      {
+        "sku": "SKU381",
+        "qty": 2,
+        "unit_price": 41.11
+      }
+    ]
+  },
+  {
+    "order_id": "O00128",
+    "customer_id": "C0018",
+    "order_date": "2025-09-13",
+    "amount": 273.36,
+    "currency": "EUR",
+    "status": "Shipped"
+  },
+  {
+    "order_id": "O00129",
+    "customer_id": "C0059",
+    "order_date": "19-06-2025",
+    "amount": 180.66,
+    "currency": "INR",
+    "status": "Completed"
+  },
+  {
+    "order_id": "O00130",
+    "customer_id": "C0037",
+    "order_date": "24-05-2025",
+    "amount": 192.74,
+    "currency": "USD",
+    "status": "Refunded",
+    "items": [
+      {
+        "sku": "SKU624",
+        "qty": 3,
+        "unit_price": 50.25
+      },
+      {
+        "sku": "SKU375",
+        "qty": 3,
+        "unit_price": 90.7
+      }
+    ]
+  },
+  {
+    "order_id": "O00131",
+    "customer_id": "C0026",
+    "order_date": "2026-02-13",
+    "amount": 385.03,
+    "currency": "INR",
+    "status": "Pending"
+  },
+  {
+    "order_id": "O00132",
+    "customer_id": "C0048",
+    "order_date": "2026-01-08",
+    "amount": 311.49,
+    "currency": "USD",
+    "status": "unknown"
+  },
+  {
+    "order_id": "O00133",
+    "customer_id": "C0002",
+    "order_date": "29/07/2025",
+    "amount": 0.0,
+    "currency": "USD",
+    "status": "PENDING"
+  },
+  {
+    "order_id": "O00134",
+    "customer_id": "C0052",
+    "order_date": "2025/08/03",
+    "amount": 87.75,
+    "currency": "USD",
+    "status": "canceled"
+  },
+  {
+    "order_id": "O00135",
+    "customer_id": "C0020",
+    "order_date": "03/09/2025",
+    "amount": 250.46,
+    "currency": "USD",
+    "status": "Pending"
+  },
+  {
+    "order_id": "O00136",
+    "customer_id": "C0005",
+    "order_date": "2025-06-17",
+    "amount": 103.95,
+    "currency": "USD",
+    "status": "completed",
+    "items": [
+      {
+        "sku": "SKU312",
+        "qty": 3,
+        "unit_price": 34.68
+      },
+      {
+        "sku": "SKU127",
+        "qty": 1,
+        "unit_price": 64.37
+      },
+      {
+        "sku": "SKU525",
+        "qty": 3,
+        "unit_price": 33.96
+      },
+      {
+        "sku": "SKU490",
+        "qty": 1,
+        "unit_price": 72.64
+      }
+    ]
+  },
+  {
+    "order_id": "O00137",
+    "customer_id": "C9005",
+    "order_date": "2025/10/16",
+    "amount": -30.32,
+    "currency": "INR",
+    "status": "Completed"
+  },
+  {
+    "order_id": "O00138",
+    "customer_id": "C9001",
+    "order_date": "19-06-2025",
+    "amount": 167.88,
+    "currency": "GBP",
+    "status": "completed"
+  },
+  {
+    "order_id": "O00139",
+    "customer_id": "C0022",
+    "order_date": "04-10-2025",
+    "amount": 9999.99,
+    "currency": "USD",
+    "status": "COMPLETE"
+  },
+  {
+    "order_id": "O00140",
+    "customer_id": "C0046",
+    "order_date": "2025-11-29",
+    "amount": 328.88,
+    "currency": "GBP",
+    "status": "PENDING",
+    "items": [
+      {
+        "sku": "SKU378",
+        "qty": 2,
+        "unit_price": 47.14
+      },
+      {
+        "sku": "SKU449",
+        "qty": 3,
+        "unit_price": 69.99
+      },
+      {
+        "sku": "SKU734",
+        "qty": 3,
+        "unit_price": 103.33
+      },
+      {
+        "sku": "SKU673",
+        "qty": 2,
+        "unit_price": 5.0
+      }
+    ]
+  },
+  {
+    "order_id": "O00141",
+    "customer_id": "C0032",
+    "order_date": "2025/06/21",
+    "amount": 229.54,
+    "currency": "EUR",
+    "status": "Return"
+  },
+  {
+    "order_id": "O00142",
+    "customer_id": "C0057",
+    "order_date": "2026/01/19",
+    "amount": -33.47,
+    "currency": "EUR",
+    "status": "PENDING"
+  },
+  {
+    "order_id": "O00143",
+    "customer_id": "C0027",
+    "order_date": "2025-04-11",
+    "amount": 287.05,
+    "currency": "EUR",
+    "status": "Return"
+  },
+  {
+    "order_id": "O00144",
+    "customer_id": "C0007",
+    "order_date": "03-11-2025",
+    "amount": 379.72,
+    "currency": "GBP",
+    "status": "PENDING"
+  },
+  {
+    "order_id": "O00145",
+    "customer_id": "C0035",
+    "order_date": "17-11-2025",
+    "amount": 1.0,
+    "currency": "EUR",
+    "status": "canceled",
+    "items": [
+      {
+        "sku": "SKU211",
+        "qty": 1,
+        "unit_price": 106.17
+      },
+      {
+        "sku": "SKU495",
+        "qty": 3,
+        "unit_price": 82.77
+      },
+      {
+        "sku": "SKU918",
+        "qty": 2,
+        "unit_price": 38.4
+      },
+      {
+        "sku": "SKU963",
+        "qty": 3,
+        "unit_price": 22.11
+      }
+    ]
+  },
+  {
+    "order_id": "O00146",
+    "customer_id": "C0051",
+    "order_date": "2025/04/27",
+    "amount": 86.73,
+    "currency": "GBP",
+    "status": "Shipped"
+  },
+  {
+    "order_id": "O00147",
+    "customer_id": "C0009",
+    "order_date": "01-09-2025",
+    "amount": 296.46,
+    "currency": "EUR",
+    "status": "Pending"
+  },
+  {
+    "order_id": "O00148",
+    "customer_id": "C0048",
+    "order_date": "02/04/2025",
+    "amount": 418.15,
+    "currency": "EUR",
+    "status": "Return",
+    "items": [
+      {
+        "sku": "SKU925",
+        "qty": 3,
+        "unit_price": 71.54
+      },
+      {
+        "sku": "SKU746",
+        "qty": 1,
+        "unit_price": 27.82
+      }
+    ]
+  },
+  {
+    "order_id": "O00149",
+    "customer_id": "C0040",
+    "order_date": "2025/04/19",
+    "amount": 155.45,
+    "currency": "EUR",
+    "status": "Cancelled",
+    "items": [
+      {
+        "sku": "SKU752",
+        "qty": 3,
+        "unit_price": 125.81
+      }
+    ]
+  },
+  {
+    "order_id": "O00150",
+    "customer_id": "C0048",
+    "order_date": "24-04-2025",
+    "amount": 376.85,
+    "currency": "EUR",
+    "status": "PENDING"
+  },
+  {
+    "order_id": "O00151",
+    "customer_id": "C9005",
+    "order_date": "07-04-2025",
+    "amount": -15.78,
+    "currency": "USD",
+    "status": "Refunded"
+  },
+  {
+    "order_id": "O00152",
+    "customer_id": "C0036",
+    "order_date": "24/01/2026",
+    "amount": 283.95,
+    "currency": "USD",
+    "status": "PENDING"
+  },
+  {
+    "order_id": "O00153",
+    "customer_id": "C0007",
+    "order_date": "2025/06/11",
+    "amount": 137.32,
+    "currency": "INR",
+    "status": "COMPLETE"
+  },
+  {
+    "order_id": "O00154",
+    "customer_id": "C0048",
+    "order_date": "10/08/2025",
+    "amount": 394.74,
+    "currency": "GBP",
+    "status": "Refunded"
+  },
+  {
+    "order_id": "O00155",
+    "customer_id": "C0059",
+    "order_date": "14/10/2025",
+    "amount": 0.0,
+    "currency": "EUR",
+    "status": "completed"
+  },
+  {
+    "order_id": "O00156",
+    "customer_id": "C0041",
+    "order_date": "2025-12-16",
+    "amount": 280.69,
+    "currency": "INR",
+    "status": "Pending",
+    "items": [
+      {
+        "sku": "SKU786",
+        "qty": 1,
+        "unit_price": 58.32
+      },
+      {
+        "sku": "SKU132",
+        "qty": 1,
+        "unit_price": 80.14
+      },
+      {
+        "sku": "SKU346",
+        "qty": 2,
+        "unit_price": 106.48
+      },
+      {
+        "sku": "SKU394",
+        "qty": 1,
+        "unit_price": 23.4
+      }
+    ]
+  },
+  {
+    "order_id": "O00157",
+    "customer_id": "C0011",
+    "order_date": "2025/10/29",
+    "amount": 362.15,
+    "currency": "GBP",
+    "status": "Return"
+  },
+  {
+    "order_id": "O00158",
+    "customer_id": "C0015",
+    "order_date": "2025/09/06",
+    "amount": 235.51,
+    "currency": "INR",
+    "status": "canceled",
+    "items": [
+      {
+        "sku": "SKU757",
+        "qty": 3,
+        "unit_price": 25.06
+      }
+    ]
+  },
+  {
+    "order_id": "O00159",
+    "customer_id": "C0048",
+    "order_date": "05-01-2026",
+    "amount": 449.74,
+    "currency": "USD",
+    "status": "Pending",
+    "items": [
+      {
+        "sku": "SKU612",
+        "qty": 2,
+        "unit_price": 80.36
+      }
+    ]
+  },
+  {
+    "order_id": "O00160",
+    "customer_id": "C0032",
+    "order_date": "2025-04-11",
+    "amount": 44.72,
+    "currency": "GBP",
+    "status": "completed"
+  },
+  {
+    "order_id": "O00161",
+    "customer_id": "C0049",
+    "order_date": "13-09-2025",
+    "amount": 241.12,
+    "currency": "USD",
+    "status": "Pending"
+  },
+  {
+    "order_id": "O00162",
+    "customer_id": "C0039",
+    "order_date": "17/07/2025",
+    "amount": 0.0,
+    "currency": "USD",
+    "status": "canceled"
+  },
+  {
+    "order_id": "O00163",
+    "customer_id": "C0005",
+    "order_date": "2025-08-12",
+    "amount": 226.65,
+    "currency": "USD",
+    "status": "COMPLETE",
+    "items": [
+      {
+        "sku": "SKU482",
+        "qty": 2,
+        "unit_price": 48.68
+      }
+    ]
+  },
+  {
+    "order_id": "O00164",
+    "customer_id": "C9001",
+    "order_date": "01-11-2025",
+    "amount": 0.0,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": "O00165",
+    "customer_id": "C0039",
+    "order_date": "01-11-2025",
+    "amount": 366.7,
+    "currency": "EUR",
+    "status": "Cancelled",
+    "items": [
+      {
+        "sku": "SKU843",
+        "qty": 3,
+        "unit_price": 32.0
+      },
+      {
+        "sku": "SKU895",
+        "qty": 3,
+        "unit_price": 49.44
+      },
+      {
+        "sku": "SKU855",
+        "qty": 2,
+        "unit_price": 122.5
+      },
+      {
+        "sku": "SKU459",
+        "qty": 1,
+        "unit_price": 20.51
+      }
+    ]
+  },
+  {
+    "order_id": "O00166",
+    "customer_id": "C9005",
+    "order_date": "2026/02/10",
+    "amount": 199.34,
+    "currency": "GBP",
+    "status": "unknown",
+    "items": [
+      {
+        "sku": "SKU960",
+        "qty": 1,
+        "unit_price": 61.75
+      },
+      {
+        "sku": "SKU546",
+        "qty": 1,
+        "unit_price": 6.81
+      }
+    ]
+  },
+  {
+    "order_id": "O00167",
+    "customer_id": "C0052",
+    "order_date": "2025/04/04",
+    "amount": 348.11,
+    "currency": "EUR",
+    "status": "COMPLETE",
+    "items": [
+      {
+        "sku": "SKU577",
+        "qty": 2,
+        "unit_price": 60.23
+      }
+    ]
+  },
+  {
+    "order_id": "O00168",
+    "customer_id": "C0052",
+    "order_date": "18/01/2026",
+    "amount": 370.75,
+    "currency": "GBP",
+    "status": "PENDING"
+  },
+  {
+    "order_id": "O00169",
+    "customer_id": "C0001",
+    "order_date": "10-11-2025",
+    "amount": 138.82,
+    "currency": "GBP",
+    "status": "Refunded"
+  },
+  {
+    "order_id": "O00170",
+    "customer_id": "C0010",
+    "order_date": "15-10-2025",
+    "amount": 105.11,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "O00171",
+    "customer_id": "C0052",
+    "order_date": "04/10/2025",
+    "amount": 90.81,
+    "currency": "GBP",
+    "status": "Pending"
+  },
+  {
+    "order_id": "O00172",
+    "customer_id": "C0059",
+    "order_date": "16/07/2025",
+    "amount": 49.19,
+    "currency": "GBP",
+    "status": "Completed"
+  },
+  {
+    "order_id": "O00173",
+    "customer_id": "C0019",
+    "order_date": "23/05/2025",
+    "amount": 240.38,
+    "currency": "GBP",
+    "status": "Completed"
+  },
+  {
+    "order_id": "O00174",
+    "customer_id": "C0015",
+    "order_date": "2025/10/04",
+    "amount": 323.35,
+    "currency": "EUR",
+    "status": "Pending"
+  },
+  {
+    "order_id": "O00175",
+    "customer_id": "C0007",
+    "order_date": "2026-01-12",
+    "amount": 81.95,
+    "currency": "GBP",
+    "status": "Cancelled"
+  },
+  {
+    "order_id": "O00176",
+    "customer_id": "C0039",
+    "order_date": "02-12-2025",
+    "amount": -6.08,
+    "currency": "EUR",
+    "status": "PENDING",
+    "items": [
+      {
+        "sku": "SKU486",
+        "qty": 2,
+        "unit_price": 16.15
+      },
+      {
+        "sku": "SKU472",
+        "qty": 1,
+        "unit_price": 25.05
+      }
+    ]
+  },
+  {
+    "order_id": "O00177",
+    "customer_id": "C0035",
+    "order_date": "2025/05/13",
+    "amount": 329.21,
+    "currency": "GBP",
+    "status": "Pending"
+  },
+  {
+    "order_id": "O00178",
+    "customer_id": "C0031",
+    "order_date": "14-02-2026",
+    "amount": 271.65,
+    "currency": "GBP",
+    "status": "canceled",
+    "items": [
+      {
+        "sku": "SKU389",
+        "qty": 3,
+        "unit_price": 22.77
+      },
+      {
+        "sku": "SKU596",
+        "qty": 2,
+        "unit_price": 77.55
+      },
+      {
+        "sku": "SKU838",
+        "qty": 1,
+        "unit_price": 127.03
+      }
+    ]
+  },
+  {
+    "order_id": "O00179",
+    "customer_id": "C0035",
+    "order_date": "2026-01-17",
+    "amount": 88.48,
+    "currency": "USD",
+    "status": "unknown"
+  },
+  {
+    "order_id": "O00180",
+    "customer_id": "C0028",
+    "order_date": "2025/04/20",
+    "amount": 0.0,
+    "currency": "GBP",
+    "status": "Pending"
+  },
+  {
+    "order_id": "O00181",
+    "customer_id": "C0059",
+    "order_date": "05/10/2025",
+    "amount": 0.0,
+    "currency": "GBP",
+    "status": "Pending"
+  },
+  {
+    "order_id": "O00182",
+    "customer_id": "C9005",
+    "order_date": "2025/08/20",
+    "amount": 0.0,
+    "currency": "GBP",
+    "status": "Completed"
+  },
+  {
+    "order_id": "O00183",
+    "customer_id": "C0052",
+    "order_date": "28/01/2026",
+    "amount": 293.11,
+    "currency": "INR",
+    "status": "Cancelled",
+    "items": [
+      {
+        "sku": "SKU472",
+        "qty": 3,
+        "unit_price": 66.06
+      },
+      {
+        "sku": "SKU703",
+        "qty": 3,
+        "unit_price": 31.45
+      },
+      {
+        "sku": "SKU197",
+        "qty": 3,
+        "unit_price": 56.14
+      }
+    ]
+  },
+  {
+    "order_id": "O00184",
+    "customer_id": "C0010",
+    "order_date": "2025-05-24",
+    "amount": 154.7,
+    "currency": "EUR",
+    "status": "Cancelled"
+  },
+  {
+    "order_id": "O00185",
+    "customer_id": "C0055",
+    "order_date": "08/12/2025",
+    "amount": 270.66,
+    "currency": "GBP",
+    "status": "Cancelled"
+  },
+  {
+    "order_id": "O00186",
+    "customer_id": "C0008",
+    "order_date": "06/05/2025",
+    "amount": 358.44,
+    "currency": "GBP",
+    "status": "Return",
+    "items": [
+      {
+        "sku": "SKU204",
+        "qty": 2,
+        "unit_price": 87.4
+      },
+      {
+        "sku": "SKU910",
+        "qty": 3,
+        "unit_price": 112.1
+      }
+    ]
+  },
+  {
+    "order_id": "O00187",
+    "customer_id": "C0045",
+    "order_date": "30-11-2025",
+    "amount": 284.12,
+    "currency": "INR",
+    "status": "Cancelled"
+  },
+  {
+    "order_id": "O00188",
+    "customer_id": "C0043",
+    "order_date": "20/05/2025",
+    "amount": 57.75,
+    "currency": "EUR",
+    "status": "completed"
+  },
+  {
+    "order_id": "O00189",
+    "customer_id": "C0003",
+    "order_date": "2025/05/31",
+    "amount": null,
+    "currency": "GBP",
+    "status": "Pending"
+  },
+  {
+    "order_id": "O00190",
+    "customer_id": "C0011",
+    "order_date": "2025/08/13",
+    "amount": 224.38,
+    "currency": "EUR",
+    "status": "completed",
+    "items": [
+      {
+        "sku": "SKU191",
+        "qty": 1,
+        "unit_price": 85.94
+      },
+      {
+        "sku": "SKU858",
+        "qty": 3,
+        "unit_price": 79.76
+      },
+      {
+        "sku": "SKU868",
+        "qty": 3,
+        "unit_price": 64.14
+      },
+      {
+        "sku": "SKU300",
+        "qty": 2,
+        "unit_price": 55.76
+      }
+    ]
+  },
+  {
+    "order_id": "O00191",
+    "customer_id": "C0048",
+    "order_date": "31/08/2025",
+    "amount": 249.12,
+    "currency": "EUR",
+    "status": "unknown"
+  },
+  {
+    "order_id": "O00192",
+    "customer_id": "C0010",
+    "order_date": "2025/09/12",
+    "amount": 166.2,
+    "currency": "INR",
+    "status": "Pending"
+  },
+  {
+    "order_id": "O00193",
+    "customer_id": "C0033",
+    "order_date": "2025/10/09",
+    "amount": 98.81,
+    "currency": "GBP",
+    "status": "Shipped"
+  },
+  {
+    "order_id": "O00194",
+    "customer_id": "C0056",
+    "order_date": "2025-06-15",
+    "amount": 329.95,
+    "currency": "INR",
+    "status": "canceled",
+    "items": [
+      {
+        "sku": "SKU146",
+        "qty": 2,
+        "unit_price": 63.14
+      },
+      {
+        "sku": "SKU180",
+        "qty": 3,
+        "unit_price": 89.19
+      },
+      {
+        "sku": "SKU803",
+        "qty": 3,
+        "unit_price": 5.0
+      }
+    ]
+  },
+  {
+    "order_id": "O00195",
+    "customer_id": "C0005",
+    "order_date": "20-10-2025",
+    "amount": 1.0,
+    "currency": "INR",
+    "status": "Pending",
+    "items": [
+      {
+        "sku": "SKU347",
+        "qty": 1,
+        "unit_price": 5.0
+      },
+      {
+        "sku": "SKU982",
+        "qty": 2,
+        "unit_price": 28.71
+      },
+      {
+        "sku": "SKU342",
+        "qty": 1,
+        "unit_price": 32.35
+      }
+    ]
+  },
+  {
+    "order_id": "O00196",
+    "customer_id": "C0028",
+    "order_date": "04-11-2025",
+    "amount": 225.86,
+    "currency": "INR",
+    "status": "Completed",
+    "items": [
+      {
+        "sku": "SKU131",
+        "qty": 2,
+        "unit_price": 72.25
+      }
+    ]
+  },
+  {
+    "order_id": "O00197",
+    "customer_id": "C0046",
+    "order_date": "06-10-2025",
+    "amount": 230.96,
+    "currency": "USD",
+    "status": "Completed",
+    "items": [
+      {
+        "sku": "SKU512",
+        "qty": 3,
+        "unit_price": 60.92
+      },
+      {
+        "sku": "SKU923",
+        "qty": 2,
+        "unit_price": 41.84
+      },
+      {
+        "sku": "SKU179",
+        "qty": 2,
+        "unit_price": 96.59
+      }
+    ]
+  },
+  {
+    "order_id": "O00198",
+    "customer_id": "C0005",
+    "order_date": "07-06-2025",
+    "amount": 253.92,
+    "currency": "USD",
+    "status": "Refunded"
+  },
+  {
+    "order_id": "O00199",
+    "customer_id": "C0030",
+    "order_date": "2025-12-17",
+    "amount": 186.57,
+    "currency": "GBP",
+    "status": "completed"
+  },
+  {
+    "order_id": "O00200",
+    "customer_id": "C9001",
+    "order_date": "2025-05-17",
+    "amount": 234.43,
+    "currency": "INR",
+    "status": "Cancelled"
+  },
+  {
+    "order_id": "O00201",
+    "customer_id": "C0005",
+    "order_date": "25-06-2025",
+    "amount": 66.92,
+    "currency": "GBP",
+    "status": "canceled"
+  },
+  {
+    "order_id": "O00202",
+    "customer_id": "C0041",
+    "order_date": "2026/01/22",
+    "amount": -38.1,
+    "currency": "EUR",
+    "status": "canceled"
+  },
+  {
+    "order_id": "O00203",
+    "customer_id": "C0003",
+    "order_date": "2025/09/12",
+    "amount": 182.84,
+    "currency": "USD",
+    "status": "Cancelled"
+  },
+  {
+    "order_id": "O00204",
+    "customer_id": "C0057",
+    "order_date": "2025-09-10",
+    "amount": 316.77,
+    "currency": "GBP",
+    "status": "unknown"
+  },
+  {
+    "order_id": "O00205",
+    "customer_id": "C0042",
+    "order_date": "06/06/2025",
+    "amount": 174.95,
+    "currency": "USD",
+    "status": "Pending"
+  },
+  {
+    "order_id": "O00206",
+    "customer_id": "C0019",
+    "order_date": "2025/09/10",
+    "amount": 71.58,
+    "currency": "USD",
+    "status": "canceled"
+  },
+  {
+    "order_id": "O00207",
+    "customer_id": "C0033",
+    "order_date": "2025-07-31",
+    "amount": 247.55,
+    "currency": "INR",
+    "status": "Pending"
+  },
+  {
+    "order_id": "O00208",
+    "customer_id": "C0049",
+    "order_date": "09-10-2025",
+    "amount": 234.3,
+    "currency": "GBP",
+    "status": "completed"
+  },
+  {
+    "order_id": "O00209",
+    "customer_id": "C0027",
+    "order_date": "2026/01/25",
+    "amount": 330.92,
+    "currency": "GBP",
+    "status": "completed"
+  },
+  {
+    "order_id": "O00210",
+    "customer_id": "C0024",
+    "order_date": "2025-04-30",
+    "amount": 135.69,
+    "currency": "EUR",
+    "status": "Pending"
+  },
+  {
+    "order_id": "O00211",
+    "customer_id": "C0035",
+    "order_date": "2025-12-13",
+    "amount": 353.77,
+    "currency": "EUR",
+    "status": "completed"
+  },
+  {
+    "order_id": "O00212",
+    "customer_id": "C0006",
+    "order_date": "01-01-2026",
+    "amount": 0.0,
+    "currency": "INR",
+    "status": "PENDING"
+  },
+  {
+    "order_id": "O00213",
+    "customer_id": "C0044",
+    "order_date": "18/11/2025",
+    "amount": null,
+    "currency": "USD",
+    "status": "Cancelled"
+  },
+  {
+    "order_id": "O00214",
+    "customer_id": "C0018",
+    "order_date": "2025-12-11",
+    "amount": 73.11,
+    "currency": "EUR",
+    "status": "unknown"
+  },
+  {
+    "order_id": "O00215",
+    "customer_id": "C0059",
+    "order_date": "08/06/2025",
+    "amount": 344.16,
+    "currency": "EUR",
+    "status": "completed"
+  },
+  {
+    "order_id": "O00216",
+    "customer_id": "C0038",
+    "order_date": "26-11-2025",
+    "amount": 317.71,
+    "currency": "USD",
+    "status": "Refunded",
+    "items": [
+      {
+        "sku": "SKU438",
+        "qty": 2,
+        "unit_price": 39.64
+      },
+      {
+        "sku": "SKU702",
+        "qty": 3,
+        "unit_price": 87.15
+      }
+    ]
+  },
+  {
+    "order_id": "O00217",
+    "customer_id": "C0049",
+    "order_date": "01-12-2025",
+    "amount": 306.59,
+    "currency": "GBP",
+    "status": "COMPLETE"
+  },
+  {
+    "order_id": "O00218",
+    "customer_id": "C0025",
+    "order_date": "09/12/2025",
+    "amount": 188.46,
+    "currency": "EUR",
+    "status": "Completed",
+    "items": [
+      {
+        "sku": "SKU624",
+        "qty": 1,
+        "unit_price": 54.64
+      },
+      {
+        "sku": "SKU646",
+        "qty": 1,
+        "unit_price": 65.87
+      }
+    ]
+  },
+  {
+    "order_id": "O00219",
+    "customer_id": "C0036",
+    "order_date": "10-08-2025",
+    "amount": 60.64,
+    "currency": "USD",
+    "status": "COMPLETE"
+  },
+  {
+    "order_id": "O00220",
+    "customer_id": "C0030",
+    "order_date": "21/01/2026",
+    "amount": 197.5,
+    "currency": "GBP",
+    "status": "Refunded"
+  },
+  {
+    "order_id": "O00221",
+    "customer_id": "C0037",
+    "order_date": "09/10/2025",
+    "amount": 501.85,
+    "currency": "GBP",
+    "status": "Refunded"
+  },
+  {
+    "order_id": "O00222",
+    "customer_id": "C0021",
+    "order_date": "27/05/2025",
+    "amount": 170.12,
+    "currency": "INR",
+    "status": "canceled"
+  },
+  {
+    "order_id": "O00223",
+    "customer_id": "C0034",
+    "order_date": "2025/11/03",
+    "amount": 365.9,
+    "currency": "GBP",
+    "status": "PENDING",
+    "items": [
+      {
+        "sku": "SKU156",
+        "qty": 3,
+        "unit_price": 5.6
+      },
+      {
+        "sku": "SKU618",
+        "qty": 1,
+        "unit_price": 79.86
+      }
+    ]
+  },
+  {
+    "order_id": "O00224",
+    "customer_id": "C0032",
+    "order_date": "14-11-2025",
+    "amount": 275.72,
+    "currency": "EUR",
+    "status": "Cancelled"
+  },
+  {
+    "order_id": "O00225",
+    "customer_id": "C0030",
+    "order_date": "2025-08-04",
+    "amount": 232.57,
+    "currency": "EUR",
+    "status": "Pending"
+  },
+  {
+    "order_id": "O00226",
+    "customer_id": "C0013",
+    "order_date": "2025/04/25",
+    "amount": 152.38,
+    "currency": "GBP",
+    "status": "COMPLETE"
+  },
+  {
+    "order_id": "O00227",
+    "customer_id": "C0014",
+    "order_date": "20-12-2025",
+    "amount": 0.0,
+    "currency": "USD",
+    "status": "PENDING"
+  },
+  {
+    "order_id": "O00228",
+    "customer_id": "C0052",
+    "order_date": "21-12-2025",
+    "amount": 284.69,
+    "currency": "USD",
+    "status": "Completed",
+    "items": [
+      {
+        "sku": "SKU304",
+        "qty": 1,
+        "unit_price": 64.57
+      },
+      {
+        "sku": "SKU924",
+        "qty": 3,
+        "unit_price": 102.7
+      }
+    ]
+  },
+  {
+    "order_id": "O00229",
+    "customer_id": "C0025",
+    "order_date": "2025/05/21",
+    "amount": 262.42,
+    "currency": "EUR",
+    "status": "COMPLETE"
+  },
+  {
+    "order_id": "O00230",
+    "customer_id": "C0056",
+    "order_date": "11-01-2026",
+    "amount": 128.39,
+    "currency": "INR",
+    "status": "Shipped"
+  },
+  {
+    "order_id": "O00231",
+    "customer_id": "C0021",
+    "order_date": "2025/10/26",
+    "amount": 339.77,
+    "currency": "EUR",
+    "status": "Pending"
+  },
+  {
+    "order_id": "O00232",
+    "customer_id": "C0051",
+    "order_date": "18-09-2025",
+    "amount": 309.25,
+    "currency": "GBP",
+    "status": "Shipped",
+    "items": [
+      {
+        "sku": "SKU555",
+        "qty": 1,
+        "unit_price": 55.29
+      },
+      {
+        "sku": "SKU391",
+        "qty": 3,
+        "unit_price": 22.06
+      },
+      {
+        "sku": "SKU259",
+        "qty": 1,
+        "unit_price": 37.1
+      },
+      {
+        "sku": "SKU347",
+        "qty": 2,
+        "unit_price": 60.33
+      }
+    ]
+  },
+  {
+    "order_id": "O00233",
+    "customer_id": "C0049",
+    "order_date": "03-04-2025",
+    "amount": 44.34,
+    "currency": "GBP",
+    "status": "PENDING",
+    "items": [
+      {
+        "sku": "SKU990",
+        "qty": 2,
+        "unit_price": 41.66
+      },
+      {
+        "sku": "SKU816",
+        "qty": 1,
+        "unit_price": 51.95
+      },
+      {
+        "sku": "SKU682",
+        "qty": 2,
+        "unit_price": 61.44
+      }
+    ]
+  },
+  {
+    "order_id": "O00234",
+    "customer_id": "C0029",
+    "order_date": "06-10-2025",
+    "amount": 297.87,
+    "currency": "USD",
+    "status": "Cancelled"
+  },
+  {
+    "order_id": "O00235",
+    "customer_id": "C0050",
+    "order_date": "05/12/2025",
+    "amount": 49.27,
+    "currency": "INR",
+    "status": "Shipped"
+  },
+  {
+    "order_id": "O00236",
+    "customer_id": "C0054",
+    "order_date": "2025/12/11",
+    "amount": 295.39,
+    "currency": "EUR",
+    "status": "Refunded",
+    "items": [
+      {
+        "sku": "SKU159",
+        "qty": 2,
+        "unit_price": 73.93
+      },
+      {
+        "sku": "SKU468",
+        "qty": 1,
+        "unit_price": 19.57
+      },
+      {
+        "sku": "SKU358",
+        "qty": 3,
+        "unit_price": 94.28
+      }
+    ]
+  },
+  {
+    "order_id": "O00237",
+    "customer_id": "C0040",
+    "order_date": "26-11-2025",
+    "amount": 110.54,
+    "currency": "INR",
+    "status": "completed"
+  },
+  {
+    "order_id": "O00238",
+    "customer_id": "C0035",
+    "order_date": "05/06/2025",
+    "amount": 190.51,
+    "currency": "GBP",
+    "status": "completed"
+  },
+  {
+    "order_id": "O00239",
+    "customer_id": "C0010",
+    "order_date": "2025-12-01",
+    "amount": 17.38,
+    "currency": "EUR",
+    "status": "Pending"
+  },
+  {
+    "order_id": "O00240",
+    "customer_id": "C0053",
+    "order_date": "22/01/2026",
+    "amount": 228.74,
+    "currency": "INR",
+    "status": "Refunded"
+  }
+]
